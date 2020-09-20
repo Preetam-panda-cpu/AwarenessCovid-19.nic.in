@@ -1,2 +1,2 @@
 # AwarenessCovid-19.nic.in
- I am useing Html,Css,Js
+ I am useing Html,Css,Js scrolling the page
